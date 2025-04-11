@@ -43,10 +43,10 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            bin/vidx-linux-x64
-            bin/vidx-linux-arm64
-            bin/vidx-windows-x64.exe
-            bin/vidx-darwin-x64
-            bin/vidx-darwin-arm64
+            bin/vidx-linux-x64.zip
+            bin/vidx-linux-arm64.zip
+            bin/vidx-windows-x64.zip
+            bin/vidx-darwin-x64.zip
+            bin/vidx-darwin-arm64.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
