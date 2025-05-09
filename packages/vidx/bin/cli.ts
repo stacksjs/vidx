@@ -1,6 +1,6 @@
 import type { vidxOptions } from '../src/types'
 import { CAC } from 'cac'
-import { version } from '../package.json'
+import { version } from '../../../package.json'
 
 const cli = new CAC('vidx')
 
