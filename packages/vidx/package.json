@@ -56,7 +56,7 @@
     "bun-plugin-dtsx": "^0.21.9",
     "bunfig": "^0.7.0",
     "cac": "^6.7.14",
-    "changelogen": "^0.5.7",
+    "changelogen": "^0.6.2",
     "consola": "^3.4.0",
     "typescript": "^5.7.3",
     "unocss": "^65.4.3"
